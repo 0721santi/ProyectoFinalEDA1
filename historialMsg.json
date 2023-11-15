@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "envia": "Santiago",
+      "recibe": "Johan",
+      "msg": "AAAAA",
+      "hora": 2205
+    },
+    {
+      "envia": "Santiago",
+      "recibe": "Johan",
+      "msg": "AKSLA",
+      "hora": 2230
+    },
+    {
+      "envia": "Johan",
+      "recibe": "Santiago",
+      "msg": "AKSLDK",
+      "hora": 2350
+    }
+  ],
+  [
+    {
+      "envia": "Santiago",
+      "recibe": "Emanuel",
+      "msg": "CCCCC",
+      "hora": 1205
+    }
+  ],
+  [
+    {
+      "envia": "Johan",
+      "recibe": "Emanuel",
+      "msg": "YOYOOYOY",
+      "hora": 2000
+    }
+  ]
+]
