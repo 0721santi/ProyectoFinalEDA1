@@ -24,8 +24,9 @@ class HistorialMensajes:
                                         "msg": mensaje,
                                         "hora": hora 
                                     })
-        with open("historialMsg.json", "w", encoding="UTF-8") as historial:
-            mensajes = []
-            for key in self.historial:
-                mensajes.append(self.historial[key])
-            json.dump(mensajes, historial, indent=2, ensure_ascii=False)
+    def agrega_json(self):
+            with open("historialMsg.json", "w", encoding="UTF-8") as historial:
+                mensajes = []
+                for key in self.historial:
+                    mensajes.append(self.historial[key])
+                json.dump(mensajes, historial, indent=2, ensure_ascii=False)
