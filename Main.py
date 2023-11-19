@@ -2,23 +2,41 @@ from Persona import Persona
 from Mensaje import Mensaje
 from Datos import datos
 from Cola import cola
+from HistorialMensajes import HistorialMensajes as Historial
 import copy
 import random
 def generar_usuarios(total):
     dato = datos()
     return [Persona(random.randint(1000, 2000), random.choice(dato.nombres)+' '+random.choice(dato.apellidos), random.randint(18, 70)) for i in range(total)]
+
+def calcula_frecuencia(msgs, lastTime, time, frecuencia):
+    sum = frecuencia*msgs
+    tiempo = time-lastTime
+    sum += tiempo
+    frecuencia = sum/(msgs+1)
+    return frecuencia
+
 def generar_mensajes(us1, us2):
     users = [us1, us2]
     mensajes = []
     cantidad = random.randint(1, 100)
+    frecuencia = 0
+    time = 0
     for i in range(cantidad):
         envia = random.choice(users)
         if envia==us1:
             recibe = us2
         else:
-            recibe = us1
-        mensajes.append(Mensaje(envia, recibe, random.randint(0, 1440)))
-    return copy.deepcopy(mensajes)
+            recibe = us1            
+        lastTime = time
+        time = random.randint(time, time+60)
+        mensajes.append(Mensaje(envia, recibe, time))
+        frecuencia = calcula_frecuencia(i, lastTime, time, frecuencia)
+        if time+60 >= 1440:
+            break
+        historial.nuevoMsg(mensajes[i])
+    return mensajes, frecuencia
+
 def generar_amistades(total):
     global amistades, usuarios_amigos
     usuarios = generar_usuarios(total)
@@ -33,28 +51,14 @@ def generar_amistades(total):
                 amistades.insert([(usuario, amigo), mensajes, random.randint(1, 12)])
         usuarios_amigos.insert([usuario, usuario.amigos])
 
-amistades = cola()
-usuarios_amigos = cola()
-generar_amistades(20)
+if __name__ == "__main__":
+    amistades = cola()
+    usuarios_amigos = cola()
+    historial = Historial()
+    generar_amistades(20)
 
-'''for i in range(usuarios_amigos.size):
-    u = usuarios_amigos.eliminar()
-    print(u[0].nombre)
-    print(len(u[1]))
-    print()'''
-
-cola = cola()
-l = []
-for i in range(30):
-    # Generar un string variable para el primer elemento
-    string_variable = ''.join(random.choices('abcdefghijklmnopqrstuvwxyz', k=3))
-
-    # Generar una lista interna de longitud variable entre 3 y 30 elementos
-    longitud_lista = random.randint(3, 30)
-    lista_variable = random.sample(range(100), longitud_lista)
-
-    # Insertar el elemento en la cola
-    cola.insert([string_variable, lista_variable])
-    l.append([string_variable, len(lista_variable)])
-cola.imprimir()
-print(l)
+    for i in range(usuarios_amigos.size):
+        u = usuarios_amigos.eliminar()
+        print(u[0].nombre)
+        print(len(u[1]))
+        print()
