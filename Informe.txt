@@ -1,0 +1,273 @@
+LOS USUARIOS CON MÁS AMIGOS SON: 
+
+Alejandro Vargas con 80 amigos
+Sus amigos son:
+Mireia Bravo 
+Eva Estrada 
+Manuel Jiménez 
+Gustavo Martínez 
+Roberto Giménez 
+Manuel Rojas 
+Alberto Pacheco 
+Luis Pacheco 
+Felipe Alvarez 
+Julio Medina 
+Álex Orozco 
+Francisco Fuentes 
+Pilar Torres 
+María Silva 
+Alejandro López 
+Joaquín Zamora 
+Esther Vázquez 
+Valentina Castro 
+Raquel Vega 
+Fabián Rodríguez 
+Álex Guillén 
+Andrés Carrillo 
+Luis Padilla 
+Lucía Martínez 
+Esther Mata 
+Omar González 
+Víctor Salinas 
+Olga Díaz 
+Ramón Ortega 
+Olga Molina 
+Daniela Díaz 
+Eduardo Carrillo 
+Alberto López 
+Ricardo Romero 
+Raquel Herrera 
+Mireia Márquez 
+Paula Aguilar 
+Valentina Cervantes 
+Julio Guillén 
+Fernando Díaz 
+Judith Carrillo 
+Patricia Martínez 
+Nacho Jiménez 
+Miriam Jaimes 
+Rosa Benítez 
+Ricardo Ortega 
+Enrique Estrada 
+Beatriz Jaimes 
+Carmen Pinto 
+Luisa Giménez 
+Pilar Vázquez 
+Lorenzo Guerrero 
+Susana Nieto 
+Irene Estrada 
+Gemma Sosa 
+Luisa Pinto 
+Emilio Morales 
+Sonia Jiménez 
+José Moreno 
+Carolina Vega 
+Cristina Jiménez 
+Susana Gutiérrez 
+Miguel Rosales 
+Álvaro Rojas 
+Valentina Moreno 
+Álvaro Cárdenas 
+Félix Reyes 
+Sonia Mendoza 
+Vanesa Delgado 
+Sofía Guerra 
+José García 
+Cecilia González 
+Omar Estrada 
+Cristina Ramírez 
+Sofía Salinas 
+Laura Ortega 
+Óscar Paredes 
+Omar Rosales 
+Julio Santos 
+Valentina Romero 
+
+
+Félix Reyes con 79 amigos
+Sus amigos son:
+Omar González 
+Carmen Pinto 
+Alejandro López 
+Mireia Bravo 
+Eva Estrada 
+Víctor Salinas 
+Gustavo Martínez 
+Manuel Rojas 
+Patricia Martínez 
+Alberto López 
+Fabián Rodríguez 
+Marcos Salinas 
+Luisa Pinto 
+Ricardo Ortega 
+Raquel Herrera 
+Judith Carrillo 
+Eduardo Carrillo 
+Olga Molina 
+Álvaro Cárdenas 
+Susana Gutiérrez 
+Gemma Sosa 
+Irene Estrada 
+Omar Rosales 
+José Moreno 
+María Silva 
+Teresa Iglesias 
+Emilio Morales 
+Pilar Torres 
+Nacho Jiménez 
+Sofía Salinas 
+Óscar Paredes 
+Alejandro Vargas 
+Mireia Jaimes 
+Luis Pacheco 
+Juan Florez 
+Raul Cervantes 
+Fernando Peña 
+Luis Padilla 
+Mireia Márquez 
+Omar Estrada 
+Raquel Vega 
+Susana Nieto 
+Julio Medina 
+Julio Orozco 
+Francisco Fuentes 
+Cristina Ramírez 
+Luisa Giménez 
+Mónica Ortega 
+Esther Vázquez 
+Lorenzo Guerrero 
+Francisco Fuentes 
+José García 
+Alberto Pacheco 
+Roberto Giménez 
+Joaquín Zamora 
+Valentina Moreno 
+Sonia Salinas 
+Lucía Martínez 
+Miriam Jaimes 
+Beatriz Soto 
+Valentina Castro 
+Álex Orozco 
+Paula Aguilar 
+Cristina Jiménez 
+Verónica Márquez 
+Simón Leyva 
+Pilar Vázquez 
+Fernando Díaz 
+Omar Alvarez 
+Rocío Muñoz 
+Rosa Benítez 
+Esther Mata 
+Ramón Ortega 
+Vanesa Delgado 
+Valentina Cervantes 
+Cecilia González 
+Ricardo Romero 
+Valentina Romero 
+Andrés Carrillo 
+
+
+Raquel Herrera con 78 amigos
+Sus amigos son:
+Omar González 
+Carmen Pinto 
+Álex Orozco 
+Mireia Bravo 
+Carolina Vega 
+Eva Estrada 
+Daniela Díaz 
+Gustavo Martínez 
+Verónica Márquez 
+Roberto Giménez 
+Patricia Martínez 
+Eduardo Carrillo 
+Julio Medina 
+Alejandro Vargas 
+Julio Guillén 
+María Silva 
+Mónica Ortega 
+Esther Mata 
+Miguel Rosales 
+Sonia Mendoza 
+Omar Alvarez 
+Valentina Moreno 
+Luisa Giménez 
+Vanesa Delgado 
+Irene Estrada 
+Julio Santos 
+José Moreno 
+Gonzalo Aguirre 
+Valentina Romero 
+Fernando Díaz 
+Luis Padilla 
+Julio Orozco 
+Álex Guillén 
+Pilar Torres 
+Valentina Cervantes 
+Simón Leyva 
+Andrés Carrillo 
+Víctor Salinas 
+Felipe Alvarez 
+Sonia Salinas 
+José García 
+Nacho Jiménez 
+Óscar Paredes 
+Beatriz Soto 
+Sonia Jiménez 
+Rosa Benítez 
+Álvaro Rojas 
+Antonio Hernández 
+Rocío Muñoz 
+Félix Reyes 
+Mireia Jaimes 
+Fabián Rodríguez 
+Álvaro Cárdenas 
+Manuel Rojas 
+Omar Estrada 
+Raquel Vega 
+Alberto Pacheco 
+Francisco Fuentes 
+Cristina Ramírez 
+Raul Cervantes 
+Susana Gutiérrez 
+Marcos Salinas 
+Enrique Estrada 
+Beatriz Jaimes 
+Fernando Peña 
+Francisco Fuentes 
+Ramón Ortega 
+Olga Díaz 
+Sofía Guerra 
+Emilio Morales 
+Cecilia González 
+Miriam Jaimes 
+Esther Vázquez 
+Juan Florez 
+Luis Pacheco 
+Gemma Sosa 
+Laura Ortega 
+Susana Nieto 
+
+
+LOS MEJORES AMIGOS SON: 
+
+Omar González y Valentina Castro con una cantidad de 60 mensajes y 14 mensajes por minuto 
+
+Valentina Romero y Enrique Estrada con una cantidad de 60 mensajes y 15 mensajes por minuto 
+
+Julio Medina y Sofía Salinas con una cantidad de 60 mensajes y 17 mensajes por minuto 
+
+Eduardo Carrillo y Omar Estrada con una cantidad de 59 mensajes y 14 mensajes por minuto 
+
+Lucía Martínez y Andrés Carrillo con una cantidad de 59 mensajes y 17 mensajes por minuto 
+
+Alejandro Vargas y Ricardo Romero con una cantidad de 59 mensajes y 21 mensajes por minuto 
+
+Rocío Muñoz y Vanesa Delgado con una cantidad de 58 mensajes y 21 mensajes por minuto 
+
+Alejandro López y Julio Orozco con una cantidad de 57 mensajes y 14 mensajes por minuto 
+
+Félix Reyes y Beatriz Soto con una cantidad de 57 mensajes y 14 mensajes por minuto 
+
+Verónica Márquez y Esther Mata con una cantidad de 57 mensajes y 15 mensajes por minuto 
+
