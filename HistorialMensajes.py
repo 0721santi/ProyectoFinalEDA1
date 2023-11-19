@@ -28,4 +28,4 @@ class HistorialMensajes:
             mensajes = []
             for key in self.historial:
                 mensajes.append(self.historial[key])
-            json.dump(mensajes, historial, indent=2)
+            json.dump(mensajes, historial, indent=2, ensure_ascii=False)
