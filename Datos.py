@@ -25,6 +25,7 @@ class datos:
             "Raquel",
             "Andrés",
             "Pilar",
+            "Edison",
             "David",
             "Rocío",
             "Gonzalo",
@@ -108,6 +109,9 @@ class datos:
             "Sonia",
             "Nacho",
             "Esther",
+            "Santiago"
+            "Johan"
+            "Emanuel"
         ]
             self.apellidos= [
             "González", "Rodríguez", "Gómez", "Fernández", "López", "Díaz", "Martínez", "Pérez", "García", "Sánchez",
@@ -120,7 +124,7 @@ class datos:
             "Pacheco", "Padilla", "Calderón", "Guerrero", "Ávila", "Peña", "Guillén", "Guerra", "Orozco", "Benítez",
             "Cárdenas", "Escobar", "Montes", "Olivares", "Paredes", "Lugo", "Castañeda", "Carrillo", "López", "Pinto",
             "Maldonado", "Arroyo", "Sosa", "Valencia", "Salinas", "Osorio", "Nieto", "Bermúdez", "Quintero", "Guzmán",
-            "Olivera", "Jaimes", "Mata", "Leyva", "Zamora", "Amaya", "Parra", "Camacho", "Téllez"
+            "Olivera", "Jaimes", "Mata", "Leyva", "Zamora", "Amaya", "Parra", "Camacho", "Téllez", "Idárraga", "Ceballos"
         ]
             self.mensajes = [':)' , ':(' , ':D' , ':P' , ';)' , ":'(" , ':O' , ':|' , ':/' , ':*' , '<3' , '-_-', ':v' , '0_0' , '-_-*' , '>_<' ,
               '^_^' , '-.-' , 'o.O' , 'O.o' , '-_-;' , '-_-zzz' , ':3' , '-_-' , '8-)' , '8-|' , ':O_o:' , '>:O' , ':-/' , ':-*' ,
